@@ -1,0 +1,7 @@
+asyncpg~=0.31.0
+fastapi~=0.135.3
+passlib~=1.7.4
+jose~=1.0.0
+python-jose~=3.5.0
+pydantic-settings~=2.13.1
+uvicorn
